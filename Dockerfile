@@ -7,7 +7,7 @@ COPY src ./src
 RUN mvn -q verify
 
 # ---- run ----
-FROM eclipse-temurin:17-jre
+FROM eclipse-temurin:25-jre
 WORKDIR /app
 RUN groupadd --system nord && useradd --system --gid nord nord
 COPY --from=build --chown=nord:nord /app/target/*.jar app.jar
