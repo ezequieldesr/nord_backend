@@ -1,0 +1,11 @@
+target
+.git
+.idea
+.vscode
+.env
+.env.*
+*.log
+*.pem
+*.key
+*.p12
+*.pfx

@@ -1,0 +1,27 @@
+﻿[
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.55",
+        "id":  "GHSA-9xv2-5v5q-p794"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.55",
+        "id":  "GHSA-gcx9-497g-6cp6"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.55",
+        "id":  "GHSA-h3x4-894j-xpx5"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.2.19",
+        "id":  "GHSA-j9f9-w8pj-32f8"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.2.19",
+        "id":  "GHSA-pc63-qcmh-9cmg"
+    }
+]

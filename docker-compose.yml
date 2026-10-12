@@ -1,0 +1,15 @@
+# Só o banco de dados para desenvolvimento local. A aplicação roda pela IDE ou com `mvn spring-boot:run`.
+services:
+  db:
+    image: postgres:16
+    container_name: loja-db
+    environment:
+      POSTGRES_DB: loja_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:

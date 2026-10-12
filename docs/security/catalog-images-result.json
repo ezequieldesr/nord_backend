@@ -1,0 +1,56 @@
+[
+  {
+    "produtoId": 1,
+    "imagem": "/api/catalogo/imagens/camiseta-dry-trail.png",
+    "http": 200,
+    "bytes": 2784186
+  },
+  {
+    "produtoId": 2,
+    "imagem": "/api/catalogo/imagens/camiseta-algodao-basica.png",
+    "http": 200,
+    "bytes": 1870845
+  },
+  {
+    "produtoId": 3,
+    "imagem": "/api/catalogo/imagens/camisa-polo-nord.png",
+    "http": 200,
+    "bytes": 2688973
+  },
+  {
+    "produtoId": 4,
+    "imagem": "/api/catalogo/imagens/tenis-corrida-fjord.png",
+    "http": 200,
+    "bytes": 2276393
+  },
+  {
+    "produtoId": 5,
+    "imagem": "/api/catalogo/imagens/tenis-urbano-branco.png",
+    "http": 200,
+    "bytes": 1850841
+  },
+  {
+    "produtoId": 6,
+    "imagem": "/api/catalogo/imagens/bone-aba-curva.png",
+    "http": 200,
+    "bytes": 2231540
+  },
+  {
+    "produtoId": 7,
+    "imagem": "/api/catalogo/imagens/bone-trucker.png",
+    "http": 200,
+    "bytes": 2427287
+  },
+  {
+    "produtoId": 8,
+    "imagem": "/api/catalogo/imagens/calca-jogger.png",
+    "http": 200,
+    "bytes": 2126177
+  },
+  {
+    "produtoId": 9,
+    "imagem": "/api/catalogo/imagens/calca-corta-vento.png",
+    "http": 200,
+    "bytes": 1792829
+  }
+]

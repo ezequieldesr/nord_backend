@@ -1,0 +1,447 @@
+﻿[
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-25qh-j22f-pwp8"
+    },
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-6v67-2wr5-gvf4"
+    },
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-jhq6-gfmj-v8fx"
+    },
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-p47f-322f-whfh"
+    },
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-pr98-23f8-jwxv"
+    },
+    {
+        "package":  "ch.qos.logback:logback-core",
+        "version":  "1.5.11",
+        "id":  "GHSA-qqpg-mvqg-649v"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-core",
+        "version":  "2.17.2",
+        "id":  "GHSA-72hv-8253-57qq"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-core",
+        "version":  "2.17.2",
+        "id":  "GHSA-7hhh-6rmp-j9qf"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-core",
+        "version":  "2.17.2",
+        "id":  "GHSA-p6pp-m3f8-5c89"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-core",
+        "version":  "2.17.2",
+        "id":  "GHSA-r7wm-3cxj-wff9"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-3pjw-73gf-8qr5"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-5jmj-h7xm-6q6v"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-cxp5-3px4-pw24"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-gx83-3vf8-gh7j"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-hgj6-7826-r7m5"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-j3rv-43j4-c7qm"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-q4xh-88c3-wmh7"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-rmj7-2vxq-3g9f"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-vvgp-rfg2-7rr6"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-wjgm-6hv5-3cvf"
+    },
+    {
+        "package":  "com.fasterxml.jackson.core:jackson-databind",
+        "version":  "2.17.2",
+        "id":  "GHSA-wv8q-qhhj-9h54"
+    },
+    {
+        "package":  "org.apache.logging.log4j:log4j-api",
+        "version":  "2.23.1",
+        "id":  "GHSA-qv9r-c865-cp47"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-23hv-mwm6-g8jf"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-25xr-qj8w-c4vf"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-27hp-xhwr-wr2m"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-3p2h-wqq4-wf4h"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-42wg-hm62-jcwg"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-563x-q5rq-57qp"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-5j33-cvvr-w245"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-5m62-pw8w-7w9f"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-5mp6-jrq3-r938"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-83qj-6fr2-vhqg"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-9m3c-qcxr-9x87"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-9m89-8frq-c98c"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-9xv2-5v5q-p794"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-ff77-26x5-69cr"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-fpj8-gq4v-p354"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-fv25-8xcx-gqjc"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-gcx9-497g-6cp6"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-gqp3-2cvr-x8m3"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-gx5v-xp9w-j4cg"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-h2fw-rfh5-95r3"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-h3gc-qfqq-6h8f"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-h3x4-894j-xpx5"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-h6fc-48rj-7qqh"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-hgrr-935x-pq79"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-mgp5-rv84-w37q"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-r29c-68gh-xp6x"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-rv64-5gf8-9qq8"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-vfww-5hm6-hx2j"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-wc4r-xq3c-5cf3"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-wmwf-9ccg-fff5"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-wr62-c79q-cv37"
+    },
+    {
+        "package":  "org.apache.tomcat.embed:tomcat-embed-core",
+        "version":  "10.1.31",
+        "id":  "GHSA-x4m4-345f-5h5g"
+    },
+    {
+        "package":  "org.postgresql:postgresql",
+        "version":  "42.7.4",
+        "id":  "GHSA-98qh-xjc8-98pq"
+    },
+    {
+        "package":  "org.postgresql:postgresql",
+        "version":  "42.7.4",
+        "id":  "GHSA-hq9p-pm7w-8p54"
+    },
+    {
+        "package":  "org.postgresql:postgresql",
+        "version":  "42.7.4",
+        "id":  "GHSA-j92g-9f8w-j867"
+    },
+    {
+        "package":  "org.springframework.boot:spring-boot",
+        "version":  "3.3.5",
+        "id":  "GHSA-rc42-6c7j-7h5r"
+    },
+    {
+        "package":  "org.springframework.boot:spring-boot",
+        "version":  "3.3.5",
+        "id":  "GHSA-wwpq-f5c3-7hvx"
+    },
+    {
+        "package":  "org.springframework.boot:spring-boot-autoconfigure",
+        "version":  "3.3.5",
+        "id":  "GHSA-ggg2-9786-hwc8"
+    },
+    {
+        "package":  "org.springframework.data:spring-data-commons",
+        "version":  "3.3.5",
+        "id":  "GHSA-5m4m-73w9-8433"
+    },
+    {
+        "package":  "org.springframework.data:spring-data-commons",
+        "version":  "3.3.5",
+        "id":  "GHSA-5vpf-xvv7-c8vh"
+    },
+    {
+        "package":  "org.springframework.data:spring-data-commons",
+        "version":  "3.3.5",
+        "id":  "GHSA-9fw2-h3hf-293r"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-core",
+        "version":  "6.3.4",
+        "id":  "GHSA-q3v6-hm2v-pw99"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-core",
+        "version":  "6.3.4",
+        "id":  "GHSA-vxf7-qj7q-83fh"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-crypto",
+        "version":  "6.3.4",
+        "id":  "GHSA-mg83-c7gq-rv5c"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-web",
+        "version":  "6.3.4",
+        "id":  "GHSA-293q-567p-wmwq"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-web",
+        "version":  "6.3.4",
+        "id":  "GHSA-mf92-479x-3373"
+    },
+    {
+        "package":  "org.springframework.security:spring-security-web",
+        "version":  "6.3.4",
+        "id":  "GHSA-x2r2-rvhq-2mqv"
+    },
+    {
+        "package":  "org.springframework:spring-context",
+        "version":  "6.1.14",
+        "id":  "GHSA-4wp7-92pw-q264"
+    },
+    {
+        "package":  "org.springframework:spring-core",
+        "version":  "6.1.14",
+        "id":  "GHSA-659m-px2c-25wj"
+    },
+    {
+        "package":  "org.springframework:spring-core",
+        "version":  "6.1.14",
+        "id":  "GHSA-jmp9-x22r-554x"
+    },
+    {
+        "package":  "org.springframework:spring-expression",
+        "version":  "6.1.14",
+        "id":  "GHSA-9f52-rjqv-25qv"
+    },
+    {
+        "package":  "org.springframework:spring-expression",
+        "version":  "6.1.14",
+        "id":  "GHSA-r5w3-xv2f-j59q"
+    },
+    {
+        "package":  "org.springframework:spring-expression",
+        "version":  "6.1.14",
+        "id":  "GHSA-wxpp-56q6-5pcg"
+    },
+    {
+        "package":  "org.springframework:spring-web",
+        "version":  "6.1.14",
+        "id":  "GHSA-6r3c-xf4w-jxjm"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-3chg-m5w7-qfv5"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-4773-3jfm-qmx3"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-6hcq-hmm3-jj3c"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-6p4f-wcwh-5vvm"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-72pg-x5f8-j25j"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-957g-f97v-vppc"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-cjpg-rgq5-fr37"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-h3qp-gqrc-q736"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-mq64-j8f9-9gcj"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-pc63-qcmh-9cmg"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-r936-gwx5-v52f"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-wg35-8jpf-2xv3"
+    },
+    {
+        "package":  "org.springframework:spring-webmvc",
+        "version":  "6.1.14",
+        "id":  "GHSA-x23c-287f-qqv5"
+    }
+]
