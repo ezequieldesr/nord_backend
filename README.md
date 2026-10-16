@@ -276,12 +276,3 @@ docs/                                Guias e evidências públicas
 [Ezequiel — GitHub](https://github.com/ezequieldesr)
 
 [Voltar ao início](#nord--api-de-e-commerce)
-
-
-## Atualizações com GitHub Actions
-
-Os workflows verificam testes, compilação, dependências e código com CodeQL.
-O frontend também executa a integração Playwright com API e PostgreSQL descartáveis.
-As actions são fixadas por commit e o Dependabot propõe atualizações semanalmente.
-[Configuração dos checks e proteções de branch](docs/CI-SEGURANCA.md).
-Os workflows só passam a executar no GitHub após o envio dos arquivos; regras de merge exigem configuração no repositório.
