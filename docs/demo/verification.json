@@ -1,0 +1,23 @@
+{
+  "recordedAt": "2026-10-16T12:57:19.995Z",
+  "browser": "Chromium",
+  "viewport": "1440x900 (desktop), 390x844 (mobile)",
+  "tests": [
+    {
+      "name": "Gestão administrativa: categorias, produtos e usuários",
+      "passed": true
+    },
+    {
+      "name": "Jornada completa: descoberta, compra e operação administrativa",
+      "passed": true
+    },
+    {
+      "name": "Loja utilizável em tela de celular",
+      "passed": true
+    },
+    {
+      "name": "API real: autorização, isolamento, estoque e revogação de sessões",
+      "passed": true
+    }
+  ]
+}
